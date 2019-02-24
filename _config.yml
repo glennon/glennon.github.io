@@ -10,7 +10,7 @@ description: >
 # twitter_username: glennon
 # github_username:  glennon
 
-show_excerpts: true # set to false to remove excerpts on the homepage
-show_downloads: true
+show_excerpts: false # set to false to remove excerpts on the homepage
+show_downloads: false
 
 theme: jekyll-theme-minimal
