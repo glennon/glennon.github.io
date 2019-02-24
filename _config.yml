@@ -1,4 +1,5 @@
 title: Alan Glennon
+logo:
 author: GitHub User
 email: glennon@myexampledomain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -10,5 +11,6 @@ twitter_username: glennon
 github_username:  glennon
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+show_downloads: true
 
 theme: jekyll-theme-minimal
