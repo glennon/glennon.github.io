@@ -8,11 +8,13 @@ permalink:        pretty
 # Setup
 title:            Alan Glennon
 tagline:          'Geographer 🎂  Angel'
-description:      '<a href="https://cnn.com">Dissertation</a><br />
+description:      '<a href="https://cnn.com">About</a><br />
                   <a href="https://cnn.com">Articles</a><br />
                   <a href="https://cnn.com">Projects</a><br />
+                  <a href="https://cnn.com">PhD Dissertation</a><br />
+                  <a href="https://cnn.com">MSc Thesis</a><br />
                   '
-url:              http://hyde.getpoole.com
+url:              https://glennon.github.io
 baseurl:          /
 
 author:
