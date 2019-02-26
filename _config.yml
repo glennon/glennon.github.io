@@ -6,9 +6,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            Alan Glennon
 tagline:          'Geographer 🎂  Angel'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+                  theme (test test test) that pairs a prominent sidebar with uncomplicated content. Made by 
+                  <a href="https://twitter.com/mdo" target="_blank">@mdo</a>. Test Test'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
