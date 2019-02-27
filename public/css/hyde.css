@@ -177,6 +177,16 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
+/* Dark blue */
+.theme-base-glennon .sidebar {
+  background-color: #1f618d;
+}
+.theme-base-glennon .content a,
+.theme-base-glennon .related-posts li a:hover {
+  color: #1f618d;
+}
+
+
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
