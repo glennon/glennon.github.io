@@ -78,7 +78,7 @@ html {
 /* About section */
 .sidebar-about h3 {
   color: #fff;
-  margin-top: 0;
+  /* margin-top: 0; */
   /* font-family: "Abril Fatface", serif; */
   /* font-size: 3.25rem; */
 }
@@ -109,7 +109,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    top: 3rem; /* was: bottom :1rem */
+    top: 1rem; /* was: bottom :1rem */
     left:   1rem;
   }
 }
