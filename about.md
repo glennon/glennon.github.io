@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello and welcome! My name is Alan, and I am a geographer. Lately, most of my time has been spent evaluating startups, advising founders, and <a href="https://angel.co/glennon">angel investing</a>. On the side, I am working on a new company called <a href="https://cakemix.com">Cakemix</a>.
+Hello and welcome! My name is Alan, and I am a geographer. Lately, most of my time has been spent evaluating startups, advising founders, and <a href="https://angel.co/glennon">angel investing</a>. On the side, I am working on a new company called <a href="https://github.com/cakemixlabs">Cakemix</a>.
   
 ~Alan
   
