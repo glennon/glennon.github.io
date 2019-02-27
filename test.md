@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Test
 ---
 
 This is a test page.
