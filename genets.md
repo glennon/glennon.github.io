@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geographically Embedded Networks
+title: Dissertation: GENets
 ---
 
 <P>
