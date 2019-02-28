@@ -10,7 +10,7 @@ Doctoral Dissertation by J. Alan Glennon<br />
 </P>
 <p>
   
-**Revision history:**<br />
+<b>Revision history:</b><br />
 Feb 27, 2019 - Reformatted html to markdown. Removed internal editing revision history. Updated deprecated links.<br />
 May 6, 2013 - Initial website
 </P>
@@ -20,7 +20,7 @@ May 6, 2013 - Initial website
 
 <P>
   
-**Code and Supplementary Material**<br>
+<b>Code and Supplementary Material</b><br>
 FlowpyGIS (Python 2.7) Interaction matrix to flow shapefile creator. <a href="https://github.com/glennon/FlowpyGIS/">(code)</a> & <a href="https://vimeo.com/9264988">(video demo)</a><br>
 QGIS FlowMapper Plugin (by C. Gulluoglu and powered by FlowpyGIS) <a href="https://plugins.qgis.org/plugins/FlowMapper/">(QGIS Plugins Repository)</a><br />
 GeyserSynth (Python 3.3) Synthetic geyser eruption data <a href="https://alanglennon.com/public/genets/syntheruptmodule.txt">(code)</a><br> 
