@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dissertation: GENets
+title: "Dissertation: GENets"
 ---
 
 <P>
