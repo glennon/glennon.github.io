@@ -32,7 +32,21 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 </p>
 
 <p>
+	
+| <img src="https://alanglennon.com/public/mrcave/a1.jpg">  | <img src="https://alanglennon.com/public/mrcave/a6.jpg"> |
+|---|---|
+
+</p>
+
+<p>
 	Armed with the knowledge of recent discoveries in Jackpot and the earlier discoveries in Whigpistle, Alan Glennon set out to discover a cave of his own.  He recruited fellow Western Kentucky University graduate student Jon Jasper to accompany him on several of his walks.  After dozens of trips searching, Alan discovered the entrance to what he later named Martin Ridge Cave on April 11, 1996.  On the 11th, Jon and Alan had radios so they could communicate while searching for caves in different parts of the woods. Alan walked toward the valley bottoms and Jon at the sandstone/limestone contact near the top of the ridge.  On this day, Jon and Alan had taken turns finding one small cave after another.  However, all of the entrances they had found appeared to be previously known caves.  While Jon was up near the ridgetop, Alan circled a low knoll in a large valley.  The knoll took him past hunters’ blinds and eventually to a small, cleared field.  Downed trees and debris had been pushed into a sinkhole at the field’s edge.  Alan approached it, but was not sure it was worth fighting through the brush. The debris-filled sinkhole did not look promising.  However, a small rock outcrop at the sinkhole’s bottom enticed Alan to investigate further. While looking for a safe way down from above, some of the brush gave way under his feet, sending him falling about one meter through debris.  He climbed back up and circled the sink to find an easier and safer way down.  
+</p>
+
+<p>
+	
+| <img src="https://alanglennon.com/public/mrcave/a3.jpg">  | <img src="https://alanglennon.com/public/mrcave/a4.jpg"> |
+|---|---|
+
 </p>
 
 <p>
@@ -40,7 +54,21 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 </p>
 
 <p>
+	
+| <img src="https://alanglennon.com/public/mrcave/a10.jpg">  | <img src="https://alanglennon.com/public/mrcave/a11.jpg"> | <img src="https://alanglennon.com/public/mrcave/a13.jpg"> |
+|---|---|---|
+
+</p>
+
+<p>
      The following days, Jon and Alan began the cave’s survey.  Down the waterfall, the passage did not go far, but a crawlway was discovered that led to a thirty-meter pit intersecting a significant stream.  The creek’s tall canyon intersected other passageways, and Alan and Jon furiously mapped the new discoveries.  One muddy and wet crawlway above the stream canyon led to a dry, elliptical trunk.  Called Dreamland Trunk, the passage averages eight meters wide and two meters high.  After heading east for 600 meters, Dreamland Trunk overlooks a tall canyon.  The fifteen-meter tall, four-meter wide Overlook Avenue is only 400 meters in length, but is decorated with beautiful travertine dams and a tall white column.  Furthermore, the northern end of Overlook Avenue, Jon and Alan discovered the bottom of a domepit.  While investigating the dome, Jon discovered footprints.  On June 24, 1996, Jon and Alan had connected with Jackpot Cave.  The connection took place at a lead beyond the Celestial Borehole in Jackpot Cave. The connection point, a pit called Cold Well, was far away from both the Jackpot and Martin Ridge entrances. Like their cave, Alan and Jon kept their connection secret too.
+</p>
+
+<p>
+	
+| <img src="https://alanglennon.com/public/mrcave/a12.jpg">  | <img src="https://alanglennon.com/public/mrcave/a5.jpg">  |
+|---|---|
+
 </p>
 
 <p>
@@ -49,6 +77,13 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 
 <p>
      In August, after a “mop up” trip, they decided to take another look at the near-sump.  They jumped in the water and passed through the sump to where it opened up again.  The passage continued as a hands-and-knees stream crawl, but because the ground was stone cobbles and gravel, a sump ahead did not appear imminent.  Thirty meters beyond the spot Alan had previously turned around, the cave began getting larger.  The cavers were able to walk upright, and the passage slowly took the dimensions of 2.5 meters by 2.5 meters.  They walked for several hundred meters before reaching a side lead.  The side lead was large, so they decided to take a quick look.  Upon entering the side passage, Jon stopped.  He saw a footprint.  Alan saw it too.  It looked like a footprint, but it was the only one.  They looked for other marks, scuffs, footprints, or survey stations, but could find nothing.  Maps showed the near-sump to be at least two kilometers from known passageways in Whigpistle Cave, and they did not know of any other major caves to the west of their entrance.  Jon continued to believe the mark was a footprint, while Alan was not so sure.
+</p>
+
+<p>
+	
+| <img src="https://alanglennon.com/public/mrcave/a7.jpg">  | <img src="https://alanglennon.com/public/mrcave/a8.jpg"> |
+|---|---|
+
 </p>
 
 <p>
@@ -62,6 +97,14 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 <p>
      Since its disclosure, the James Cavers have regained interest in the streams and leads of Jackpot Cave.  Martin Ridge Cavers have surveyed an additional six kilometers, including large trunk passageways.  Whigpistle Cave holds many leads that await persistent surveyors (Coons, 1997b).  The new discoveries and connections have the explorers’ looking toward the northeast.  Mammoth Cave is only two kilometers away.  Currently, the Martin Ridge Cave System is the United States' tenth longest cave-- and Kentucky’s third longest, at 52.6 kilometers.
 </p>
+
+<p>
+	
+| <img src="https://alanglennon.com/public/mrcave/a9.jpg">  | <img src="https://alanglennon.com/public/mrcave/a2.jpg"> |
+|---|---|
+
+</p>
+
 
 <p />
 
