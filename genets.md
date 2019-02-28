@@ -4,21 +4,14 @@ title: "Dissertation: GENets"
 ---
 
 <P>
-<b>Analysis of Geographically Embedded Networks (23 March 2013)</b><br>
+<b>Analysis of Geographically Embedded Networks (23 March 2013)</b><br />
+Doctoral Dissertation by J. Alan Glennon<br />
 <a href="https://alanglennon.com/public/genets/GlennonPhD.pdf">download</a> as pdf (11 MB)<br>
 </P>
 <P>
-revision history:<br>
-v75 to final: additional discussion of GIScience and ambiguous GENet constituents<br>
-v73 to v75: consistency edit<br>
-v48 to v73: defense revisions<br>
-v45 to v48: more minor grammar edits; acknowledgements<br>
-v42 to v45: minor grammar edits; improve text and figure placement<br>
-v38 to v42: incorporated Clarke revisions<br>
-v34 to v38: miscellaneous edits in Chapter 4<br>
-v28 to v34: incorporated Goodchild revisions<br>
-v25 to v28: edits on chapter 3,4 & 5; figure corrections<br>
-v23 to v25: edits on introductory material, and chapters 1,2 & 6
+revision history:<br />
+Feb 27, 2019 - Reformatted html to markdown. Removed internal editing revision history. Updated deprecated links.<br />
+May 6, 2013 - Initial website
 </P>
 
 
