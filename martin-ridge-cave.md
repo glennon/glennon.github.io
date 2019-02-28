@@ -93,6 +93,11 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 
 <p>
      Since its disclosure, the James Cavers have regained interest in the streams and leads of Jackpot Cave.  Martin Ridge Cavers have surveyed an additional six kilometers, including large trunk passageways.  Whigpistle Cave holds many leads that await persistent surveyors (Coons, 1997b).  The new discoveries and connections have the explorers’ looking toward the northeast.  Mammoth Cave is only two kilometers away.  Currently, the Martin Ridge Cave System is the United States' tenth longest cave-- and Kentucky’s third longest, at 52.6 kilometers.
+
+</p>
+
+<p>
+	Update: As of February 2019, the Martin Ridge Cave System is 55.7 km long and the 13th longest in the United States. The James Cavers have dug a new artificial entrance into Jackpot Cave. The survey of the Whigpistle and Martin Ridge sections is led by explorers from the Cave Research Foundation.
 </p>
 
 <p>
@@ -128,3 +133,13 @@ Ray, J.A. & Currens, J.C., 1998, <i>Mapped Karst Ground-Water Basins in the 	Cam
 <p />
 Taylor, R.L., 1979, Discovery in Whigpistle Cave, Kentucky, <i>The Ozarks’ 	Underground</i>, vol. 1, pp. 4-7.
 <p />
+
+<p>
+	
+-----
+
+last updated: 27 February 2019
+
+-----
+
+</p>
