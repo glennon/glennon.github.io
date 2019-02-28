@@ -9,7 +9,7 @@ Hello and welcome! My name is Alan, and I am a geographer. Lately, most of my ti
   
 ---
 
-<center><img src="https://alanglennon.com/public/alan2016.jpg" width="50%" alt="photo of Alan Glennon"></center>
+<p align="right"><img src="https://alanglennon.com/public/alan2016.jpg" width="50%" alt="photo of Alan Glennon"></p>
 
 ---
 
