@@ -4,9 +4,8 @@ title: Geographically Embedded Networks
 ---
 
 <P>
-<b>Dissertation</b><br>
-Analysis of Geographically Embedded Networks (23 March 2013)<br>
-<a href="http://alanglennon.com/genets/GlennonPhD.pdf">download</a> as pdf (11 MB)<br>
+<b>Analysis of Geographically Embedded Networks (23 March 2013)</b><br>
+<a href="https://alanglennon.com/public/genets/GlennonPhD.pdf">download</a> as pdf (11 MB)<br>
 </P>
 <P>
 revision history:<br>
@@ -27,13 +26,13 @@ v23 to v25: edits on introductory material, and chapters 1,2 & 6
 
 <P>
 <b>Code and Supplementary Material</b><br>
-Flowpy (Python 2.7) Interaction matrix to flow shapefile creator. <a href="http://enj.com/software/flowpy/">(code)</a> & <a href="http://vimeo.com/9264988">(video demo)</a><br>
-GeyserSynth (Python 3.3) Synthetic geyser eruption data <a href="http://alanglennon.com/genets/syntheruptmodule.txt">(code)</a><br> 
+Flowpy (Python 2.7) Interaction matrix to flow shapefile creator. <a href="https://github.com/glennon/FlowpyGIS/">(code)</a> & <a href="https://vimeo.com/9264988">(video demo)</a><br>
+GeyserSynth (Python 3.3) Synthetic geyser eruption data <a href="https://alanglennon.com/public/genets/syntheruptmodule.txt">(code)</a><br> 
 GeyserNaive (Python 3.3) To support GTP Naive case<br>
-Geyser Notebook (Android) Download at <a href="http://bit.ly/Geysers">(Google Play Store)</a> & <a href="http://www.youtube.com/watch?v=62SWtJdahm8">(video demo)</a><br>
-Defense Slideset <a href="http://alanglennon.com/genets/GENetsDefense26.pdf">download</a> as pdf (12MB)
+GeyserTimes (Android; formerly Geyser Notebook) Download at <a href="https://play.google.com/store/apps/details?id=org.application.geysertimes">(Google Play Store)</a> & <a href="http://www.youtube.com/watch?v=62SWtJdahm8">(video demo)</a><br>
+Defense Slideset <a href="https://alanglennon.com/public/genets/GENetsDefense26.pdf">download</a> as pdf (12MB)
 </P>
 
 <P>
-last update: 16 May 2013
+last update: 27 February 2019
 </P>
