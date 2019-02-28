@@ -32,9 +32,10 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 </p>
 
 <p>
-	
-| <img src="https://alanglennon.com/public/mrcave/a1.jpg">  | <img src="https://alanglennon.com/public/mrcave/a6.jpg"> |
-|---|---|
+
+
+<img src="https://alanglennon.com/public/mrcave/a1.jpg"><img src="https://alanglennon.com/public/mrcave/a6.jpg">
+
 
 </p>
 
@@ -44,8 +45,7 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 
 <p>
 	
-| <img src="https://alanglennon.com/public/mrcave/a3.jpg">  | <img src="https://alanglennon.com/public/mrcave/a4.jpg"> |
-|---|---|
+<img src="https://alanglennon.com/public/mrcave/a3.jpg"><img src="https://alanglennon.com/public/mrcave/a4.jpg">
 
 </p>
 
@@ -55,8 +55,7 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 
 <p>
 	
-| <img src="https://alanglennon.com/public/mrcave/a10.jpg">  | <img src="https://alanglennon.com/public/mrcave/a11.jpg"> | <img src="https://alanglennon.com/public/mrcave/a13.jpg"> |
-|---|---|---|
+<img src="https://alanglennon.com/public/mrcave/a10.jpg"><img src="https://alanglennon.com/public/mrcave/a11.jpg"><img src="https://alanglennon.com/public/mrcave/a13.jpg">
 
 </p>
 
@@ -66,8 +65,7 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 
 <p>
 	
-| <img src="https://alanglennon.com/public/mrcave/a12.jpg">  | <img src="https://alanglennon.com/public/mrcave/a5.jpg">  |
-|---|---|
+<img src="https://alanglennon.com/public/mrcave/a12.jpg"><img src="https://alanglennon.com/public/mrcave/a5.jpg">
 
 </p>
 
@@ -81,8 +79,7 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 
 <p>
 	
-| <img src="https://alanglennon.com/public/mrcave/a7.jpg">  | <img src="https://alanglennon.com/public/mrcave/a8.jpg"> |
-|---|---|
+<img src="https://alanglennon.com/public/mrcave/a7.jpg"><img src="https://alanglennon.com/public/mrcave/a8.jpg">
 
 </p>
 
@@ -100,8 +97,7 @@ the Mammoth Cave Watershed, M.Sc. Thesis, Bowling Green: Western Kentucky Univer
 
 <p>
 	
-| <img src="https://alanglennon.com/public/mrcave/a9.jpg">  | <img src="https://alanglennon.com/public/mrcave/a2.jpg"> |
-|---|---|
+<img src="https://alanglennon.com/public/mrcave/a9.jpg"><img src="https://alanglennon.com/public/mrcave/a2.jpg">
 
 </p>
 
