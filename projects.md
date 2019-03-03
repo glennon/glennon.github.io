@@ -17,7 +17,7 @@ title: Projects
   <a href="https://github.com/arogi"><b>Arogi</b></a> (2015-2017) - With Antonio Medrano, Matt Niblett, Tim Niblett, and Rick Church, NSF-funded spatial analytics for emergency response.
 </p>
 <p>
-  <img src="public/projects-pix/geysertimes.jpg" width="100px" alt="GeyserTimes app in use" /><br />
+  <img src="/public/projects-pix/geysertimes.jpg" width="100px" alt="GeyserTimes app in use" /><br />
   <a href="https://geysertimes.org/"><b>GeyserTimes</b></a> (2010-present) - With Jake Young, Will Boekel, et al, a notetaking app and database of geyser observations.
 </p>
 <p>
