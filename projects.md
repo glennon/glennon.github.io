@@ -5,8 +5,7 @@ title: Projects
 
 <b>Projects</b>
 <p>
-<b>Cakemix Labs</b> (2018-present) - Experiments in geospatial analysis.
-https://www.cakemix.com/
+  <a href="https://www.cakemix.com/"><b>Cakemix Labs</b></a> (2018-present) - Experiments in geospatial analysis.
 </p>
 <p>
 <b>Investor School</b> (2018-present) - I help organize a community of startup investors.
