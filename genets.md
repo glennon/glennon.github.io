@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dissertation: GENets"
+note: exclude
 ---
 
 <P>
