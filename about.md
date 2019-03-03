@@ -22,4 +22,4 @@ Alan Glennon is a computational geographer and entrepreneur. He earned his PhD i
 
 **Contact:**
 <p />
-My latest activities can be found on <a href="https://twitter.com/glennon">Twitter</a> and <a href="https://github.com/glennon">GitHub</a>. Reprints of my scientific publications can be found at <a href="https://www.researchgate.net/profile/Alan_Glennon">ResearchGate</a> or by emailing me directly. Email: glennon (at) gmail.com
+My latest activities can be found on <a href="https://twitter.com/glennon">Twitter</a> and <a href="https://github.com/glennon">GitHub</a>. Reprints of my scientific publications can be found in <a href="https://alanglennon.com/projects">Projects</a>, at <a href="https://www.researchgate.net/profile/Alan_Glennon">ResearchGate</a>, or by emailing me directly. Email: glennon (at) gmail.com
