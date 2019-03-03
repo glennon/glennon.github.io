@@ -27,3 +27,14 @@ layout: post
 title: This is my post's title!
 ---
 ```
+
+<p />
+If you want to make a page, but exclude it from the side bar, add a `note: exclude` tag. Such as:
+
+```markdown
+---
+layout: post
+title: This is my post's title!
+note: exclude
+---
+```
