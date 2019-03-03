@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Martin Ridge Cave
+note: exclude
 ---
 
 **Exploration and Survey of the Martin Ridge Cave System, Edmonson County, Kentucky**  
