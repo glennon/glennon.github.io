@@ -5,11 +5,11 @@ title: Projects
 
 <b>Projects</b>
 <p>
-  <img src="./public/projects-pix/cakemix_logo_test.jpg" width="100px" alt="cakemix labs logo" /><br />
+  <img src="/public/projects-pix/cakemix_logo_test.jpg" width="100px" alt="cakemix labs logo" /><br />
   <a href="https://www.cakemix.com/"><b>Cakemix Labs</b></a> (2018-present) - Experiments in geospatial analysis.
 </p>
 <p>
-    <img src="./public/projects-pix/pitches.jpg" width="100px" alt="startup pitches" /><br />
+    <img src="https://alanglennon.com/public/projects-pix/pitches.jpg" width="100px" alt="startup pitches" /><br />
   <a href="https://github.com/investorschool"><b>Investor School</b></a> (2018-present) - I help organize a community of startup investors.
 </p>
 <p>
@@ -17,7 +17,7 @@ title: Projects
   <a href="https://github.com/arogi"><b>Arogi</b></a> (2015-2017) - With Antonio Medrano, Matt Niblett, Tim Niblett, and Rick Church, NSF-funded spatial analytics for emergency response.
 </p>
 <p>
-  <img src="./public/projects-pix/geysertimes.jpg" width="100px" alt="GeyserTimes app in use" /><br />
+  <img src="/projects-pix/geysertimes.jpg" width="100px" alt="GeyserTimes app in use" /><br />
   <a href="https://geysertimes.org/"><b>GeyserTimes</b></a> (2010-present) - With Jake Young, Will Boekel, et al, a notetaking app and database of geyser observations.
 </p>
 <p>
