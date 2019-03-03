@@ -6,7 +6,7 @@ title: Projects
 <b>Projects</b>
 <p>
   <img src="/public/projects-pix/cakemix_logo_test.jpg" width="150em" style="float:left" alt="cakemix labs logo" />
-  <p style:"float: right">
+  <p style="float: right">
   <a href="https://www.cakemix.com/"><b>Cakemix Labs</b></a> (2018-present) - Experiments in geospatial analysis.
   </p>
 </p>
