@@ -34,13 +34,6 @@ title: Projects
 ---
 
 <p>
-  <img src="/public/projects-pix/conductivitytest.jpg" width="150em" alt="In-cave science" />
-  <a href="https://alanglennon.com/martin-ridge-cave/"><b>Martin Ridge Cave Project</b></a> (1996-present) - With Jon Jasper and others, exploration and survey of a massive cave in south-central Kentucky.
-</p>
-
----
-
-<p>
   <img src="/public/projects-pix/genets.jpg" width="150em" alt="Trail network near UCSB" />
   <a href="https://alanglennon.com/genets/"><b>Geographically Embedded Networks</b></a> (2013) - Doctoral Dissertation on networks embedded in geographic space.
 </p>
@@ -99,6 +92,13 @@ title: Projects
 <p>
   <img src="/public/projects-pix/eltatio.jpg" width="150em" alt="A map section of El Tatio Geysers, Chile" />
 <a href="https://www.researchgate.net/publication/284255246_The_extraordinary_thermal_activity_of_El_Tatio_Geyser_Field_Antofagasta_Region_Chile"><b>El Tatio Geysers</b></a> (2003) - With Rhonda Glennon, Shane Fryer, and Weldon Hawkins, an inventory and map of Chile's El Tatio geysers.
+</p>
+
+---
+
+<p>
+  <img src="/public/projects-pix/conductivitytest.jpg" width="150em" alt="In-cave science" />
+  <a href="https://alanglennon.com/martin-ridge-cave/"><b>Martin Ridge Cave Project</b></a> (1996-2003) - With Jon Jasper and others, exploration and survey of a massive cave in south-central Kentucky. Now a Cave Research Foundation project.
 </p>
 
 ---
