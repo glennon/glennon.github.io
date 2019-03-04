@@ -7,7 +7,7 @@ title: Projects
 
 ---
 
-<table>
+<table border="0">
     <tr>
         <td>    <a href="https://github.com/investorschool"><img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" /></a></td>
         <td><a href="https://github.com/investorschool"><b>Investor School</b></a> (2018-present) - I help organize a community of startup investors.</td>
@@ -16,7 +16,7 @@ title: Projects
 
 ---
 
-<table>
+<table border="0">
     <tr>
         <td><a href="https://www.cakemix.com/"><img src="/public/projects-pix/cakemix_logo_test.jpg" width="150em" alt="cakemix labs logo" /></a></td>
         <td><a href="https://www.cakemix.com/"><b>Cakemix Labs</b></a> (2018-present) - Experiments in geospatial analysis.</td>
