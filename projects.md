@@ -4,22 +4,23 @@ title: Projects
 ---
 
 <b>Projects</b>
-<div>
-  <img src="/public/projects-pix/cakemix_logo_test.jpg" width="150em" style="float:left" alt="cakemix labs logo" />
+<p>
+  <img src="/public/projects-pix/cakemix_logo_test.jpg" width="150em" alt="cakemix labs logo" />
   <a href="https://www.cakemix.com/"><b>Cakemix Labs</b></a> (2018-present) - Experiments in geospatial analysis.
-</div>
+</p>
 
 
-<div>
-    <img src="/public/projects-pix/pitches.jpg" width="150em" style="float:left" alt="startup pitches" />
+
+<p>
+    <img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" />
   <a href="https://github.com/investorschool"><b>Investor School</b></a> (2018-present) - I help organize a community of startup investors.
-</div>
+</p>
 
 
 
 <p>
   <img src="/public/projects-pix/arogi.jpg" width="100px" alt="arogi spider diagram" /><br />
-  <a href="https://github.com/arogi"><b>Arogi</b></a> (2015-2017) - With Antonio Medrano, Matt Niblett, Tim Niblett, and Rick Church, NSF-funded spatial analytics for emergency response.
+  <a href="https://github.com/arogi"><b>Arogi</b></a> (2015-2017) - With Antonio Medrano, Matt Niblett, Tim Niblett, and Rick Church, NSF-funded spatial analytics company focused on emergency response.
 </p>
 <p>
   <img src="/public/projects-pix/geysertimes.jpg" width="100px" alt="GeyserTimes app in use" /><br />
