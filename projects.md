@@ -51,7 +51,7 @@ title: Projects
 
 <p>
   <a href="https://www.researchgate.net/publication/220473289_Crowdsourcing_geographic_information_for_disaster_response_A_research_frontier_International_Journal_of_Digital_Earth_33_231-241"><img src="/public/projects-pix/jesusita.jpg" width="150em" alt="Jesusita fire burning behind a hillside house." /></a>
-  <a href="https://www.researchgate.net/publication/220473289_Crowdsourcing_geographic_information_for_disaster_response_A_research_frontier_International_Journal_of_Digital_Earth_33_231-241"><b>Crowdsourcing disaster response</b></a> (2010) - Co-authored with Mike Goodchild, a draft version immediately prior to publication copyright.
+  <a href="https://www.researchgate.net/publication/220473289_Crowdsourcing_geographic_information_for_disaster_response_A_research_frontier_International_Journal_of_Digital_Earth_33_231-241"><b>Crowdsourcing disaster response</b></a> (2010) - Co-authored with Mike Goodchild, a preprint of our article in IJDE.
 </p>
 
 ---
