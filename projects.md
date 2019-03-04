@@ -30,33 +30,28 @@ title: Projects
     </tr>
 </table>
 
----
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://geysertimes.org/"><img src="/public/projects-pix/geysertimes.jpg" width="150em" alt="GeyserTimes app in use" /></a>
+        </td>
+        <td>
+            <a href="https://geysertimes.org/"><b>GeyserTimes</b></a> (2010-present) - With Jake Young, Will Boekel, et al, a notetaking app and database of geyser observations.
+        </td>
+    </tr>
+</table>
 
-<p>
-    <a href="https://github.com/investorschool"><img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" /></a>
-    <a href="https://github.com/investorschool"><b>Investor School</b></a> (2018-present) - I help organize a community of startup investors.
-</p>
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://github.com/arogi"><img src="/public/projects-pix/arogi.jpg" width="150em" alt="arogi spider diagram" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/arogi"><b>Arogi</b></a> (2015-2017) - With Antonio Medrano, Matt Niblett, Tim Niblett, and Rick Church, NSF-funded spatial analytics company focused on emergency response.
+        </td>
+    </tr>
+</table>
 
----
-
-<p>
-  <a href="https://www.cakemix.com/"><img src="/public/projects-pix/cakemix_logo_test.jpg" width="150em" alt="cakemix labs logo" /></a>
-  <a href="https://www.cakemix.com/"><b>Cakemix Labs</b></a> (2018-present) - Experiments in geospatial analysis.
-</p>
-
----
-
-<p>
-  <a href="https://geysertimes.org/"><img src="/public/projects-pix/geysertimes.jpg" width="150em" alt="GeyserTimes app in use" /></a>
-  <a href="https://geysertimes.org/"><b>GeyserTimes</b></a> (2010-present) - With Jake Young, Will Boekel, et al, a notetaking app and database of geyser observations.
-</p>
-
----
-
-<p>
-  <a href="https://github.com/arogi"><img src="/public/projects-pix/arogi.jpg" width="150em" alt="arogi spider diagram" /></a>
-  <a href="https://github.com/arogi"><b>Arogi</b></a> (2015-2017) - With Antonio Medrano, Matt Niblett, Tim Niblett, and Rick Church, NSF-funded spatial analytics company focused on emergency response.
-</p>
 
 ---
 
