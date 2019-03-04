@@ -6,14 +6,14 @@ title: Projects
 <b>Projects</b>
 
 <p>
-    <img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" />
+    <a href="https://github.com/investorschool"><img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" /></a>
     <a href="https://github.com/investorschool"><b>Investor School</b></a> (2018-present) - I help organize a community of startup investors.
 </p>
 
 ---
 
 <p>
-  <img src="/public/projects-pix/cakemix_logo_test.jpg" width="150em" alt="cakemix labs logo" />
+  <a href="https://www.cakemix.com/"><img src="/public/projects-pix/cakemix_logo_test.jpg" width="150em" alt="cakemix labs logo" /></a>
   <a href="https://www.cakemix.com/"><b>Cakemix Labs</b></a> (2018-present) - Experiments in geospatial analysis.
 </p>
 
