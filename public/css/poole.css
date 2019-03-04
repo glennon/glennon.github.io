@@ -238,7 +238,7 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 0px solid #e5e5e5; /* was 1px * -- modified by glennon */
+  border: 0px; /* was 1px solid: #353535; * -- modified by glennon */
   border-collapse: collapse;
 }
 td,
