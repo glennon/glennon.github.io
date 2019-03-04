@@ -52,34 +52,49 @@ title: Projects
     </tr>
 </table>
 
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://alanglennon.com/genets/"><img src="/public/projects-pix/genets.jpg" width="150em" alt="Trail network near UCSB" /></a>
+        </td>
+        <td>
+            <a href="https://alanglennon.com/genets/"><b>Geographically Embedded Networks</b></a> (2013) - Doctoral Dissertation on networks embedded in geographic space.
+        </td>
+    </tr>
+</table>
 
----
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://github.com/WhereCamp"><img src="/public/projects-pix/wherecamp.jpg" width="150em" alt="People planning a mapping party" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/WhereCamp"><b>WhereCamp</b></a> (2007-2013) - Discussant at and organizer of numerous California geospatial unconferences.
+        </td>
+    </tr>
+</table>
 
-<p>
-  <a href="https://alanglennon.com/genets/"><img src="/public/projects-pix/genets.jpg" width="150em" alt="Trail network near UCSB" /></a>
-  <a href="https://alanglennon.com/genets/"><b>Geographically Embedded Networks</b></a> (2013) - Doctoral Dissertation on networks embedded in geographic space.
-</p>
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://www.researchgate.net/publication/220473289_Crowdsourcing_geographic_information_for_disaster_response_A_research_frontier_International_Journal_of_Digital_Earth_33_231-241"><img src="/public/projects-pix/jesusita.jpg" width="150em" alt="Jesusita fire burning behind a hillside house." /></a>
+        </td>
+        <td>
+            <a href="https://www.researchgate.net/publication/220473289_Crowdsourcing_geographic_information_for_disaster_response_A_research_frontier_International_Journal_of_Digital_Earth_33_231-241"><b>Crowdsourcing disaster response</b></a> (2010) - Co-authored with Mike Goodchild, a preprint of our article in IJDE.
+        </td>
+    </tr>
+</table>
 
----
-
-<p>
-  <a href="https://github.com/WhereCamp"><img src="/public/projects-pix/wherecamp.jpg" width="150em" alt="People planning a mapping party" /></a>
-  <a href="https://github.com/WhereCamp"><b>WhereCamp</b></a> (2007-2013) - Discussant at and organizer of numerous California geospatial unconferences.
-</p>
-
----
-
-<p>
-  <a href="https://www.researchgate.net/publication/220473289_Crowdsourcing_geographic_information_for_disaster_response_A_research_frontier_International_Journal_of_Digital_Earth_33_231-241"><img src="/public/projects-pix/jesusita.jpg" width="150em" alt="Jesusita fire burning behind a hillside house." /></a>
-  <a href="https://www.researchgate.net/publication/220473289_Crowdsourcing_geographic_information_for_disaster_response_A_research_frontier_International_Journal_of_Digital_Earth_33_231-241"><b>Crowdsourcing disaster response</b></a> (2010) - Co-authored with Mike Goodchild, a preprint of our article in IJDE.
-</p>
-
----
-
-<p>
-  <a href="https://www.researchgate.net/publication/220606129_Creating_and_Validating_Object-Oriented_Geographic_Data_Models_Modeling_Flow_within_GIS"><img src="/public/projects-pix/flowmodel.jpg" width="150em" alt="Flow data model examples in UML." /></a>
-  <a href="https://www.researchgate.net/publication/220606129_Creating_and_Validating_Object-Oriented_Geographic_Data_Models_Modeling_Flow_within_GIS"><b>Geographic Data Models</b></a> (2010) - A "how to" on creating geographically informed data models.
-</p>
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://www.researchgate.net/publication/220606129_Creating_and_Validating_Object-Oriented_Geographic_Data_Models_Modeling_Flow_within_GIS"><img src="/public/projects-pix/flowmodel.jpg" width="150em" alt="Flow data model examples in UML." /></a>
+        </td>
+        <td>
+            <a href="https://www.researchgate.net/publication/220606129_Creating_and_Validating_Object-Oriented_Geographic_Data_Models_Modeling_Flow_within_GIS"><b>Geographic Data Models</b></a> (2010) - A "how to" on creating geographically informed data models.
+        </td>
+    </tr>
+</table>
 
 ---
 
