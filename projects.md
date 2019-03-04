@@ -9,7 +9,7 @@ title: Projects
 
 <p>
     <a href="https://github.com/investorschool"><img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" /></a>
-    <span style:"float:right"><a href="https://github.com/investorschool"><b>Investor School</b></a> (2018-present) - I help organize a community of startup investors.</span>
+    <span style="float:right"><a href="https://github.com/investorschool"><b>Investor School</b></a> (2018-present) - I help organize a community of startup investors.</span>
 </p>
 
 ---
