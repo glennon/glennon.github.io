@@ -96,51 +96,79 @@ title: Projects
     </tr>
 </table>
 
----
+<table>
+    <tr>
+        <td width="25%">
+            <a href="http://mapdev.geog.ucsb.edu/"><img src="/public/projects-pix/campusmap.jpg" width="150em" alt="UCSB online map" /></a>
+        </td>
+        <td>
+            <a href="http://mapdev.geog.ucsb.edu/"><b>UCSB Campus Map</b></a> (2010) - With Susan Tran, an interactive map of the UCSB campus.
+        </td>
+    </tr>
+</table>
 
-<p>
-  <a href="http://mapdev.geog.ucsb.edu/"><img src="/public/projects-pix/campusmap.jpg" width="150em" alt="UCSB online map" /></a>
-<a href="http://mapdev.geog.ucsb.edu/"><b>UCSB Campus Map</b></a> (2010) - With Susan Tran, an interactive map of the UCSB campus.
-</p>
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://github.com/glennon/FlowpyGIS"><img src="/public/projects-pix/flowpygis.jpg" width="150em" alt="Flow lines on a map" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/glennon/FlowpyGIS"><b>FlowpyGIS</b></a> (2008-2010) - A Python script for creating gross, net, and two-way flow lines.
+        </td>
+    </tr>
+</table>
 
----
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://geography2.blogspot.com/"><img src="/public/projects-pix/geography2.jpg" width="150em" alt="Wind currents on a virtual globe." /></a>
+        </td>
+        <td>
+            <a href="https://geography2.blogspot.com/"><b>Geography 2.0</b></a> (2005-2007) - Contemporaneous blog on the development of virtual globes.
+        </td>
+    </tr>
+</table>
 
-<p>
-    <a href="https://github.com/glennon/FlowpyGIS"><img src="/public/projects-pix/flowpygis.jpg" width="150em" alt="Flow lines on a map" /></a>
-  <a href="https://github.com/glennon/FlowpyGIS"><b>FlowpyGIS</b></a> (2008-2010) - A Python script for creating gross, net, and two-way flow lines.
-</p>
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://pdfs.semanticscholar.org/57b3/1748382bfb9176d580fb69c5a0ff7ed8b6e0.pdf"><img src="/public/projects-pix/crystalin1995.jpg" width="150em" alt="Crystal Geyser, Utah" /></a>
+        </td>
+        <td>
+            <a href="https://pdfs.semanticscholar.org/57b3/1748382bfb9176d580fb69c5a0ff7ed8b6e0.pdf"><b>Cold water geysers</b></a> (2004) - With Rhonda Glennon, an inventory of CO2-driven erupting springs and wells. Note: link goes to a pdf file.
+        </td>
+    </tr>
+</table>
 
----
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://www.researchgate.net/publication/284255246_The_extraordinary_thermal_activity_of_El_Tatio_Geyser_Field_Antofagasta_Region_Chile"><img src="/public/projects-pix/eltatio.jpg" width="150em" alt="A map section of El Tatio Geysers, Chile" /></a>
+        </td>
+        <td>
+            <a href="https://www.researchgate.net/publication/284255246_The_extraordinary_thermal_activity_of_El_Tatio_Geyser_Field_Antofagasta_Region_Chile"><b>El Tatio Geysers</b></a> (2003) - With Rhonda Glennon, Shane Fryer, and Weldon Hawkins, an inventory and map of Chile's El Tatio geysers.
+        </td>
+    </tr>
+</table>
 
-<p>
-  <a href="https://geography2.blogspot.com/"><img src="/public/projects-pix/geography2.jpg" width="150em" alt="Wind currents on a virtual globe." /></a>
-  <a href="https://geography2.blogspot.com/"><b>Geography 2.0</b></a> (2005-2007) - Contemporaneous blog on the development of virtual globes.
-</p>
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://alanglennon.com/martin-ridge-cave/"><img src="/public/projects-pix/conductivitytest.jpg" width="150em" alt="In-cave science" /></a>
+        </td>
+        <td>
+            <a href="https://alanglennon.com/martin-ridge-cave/"><b>Martin Ridge Cave Project</b></a> (1996-2003) - With Jon Jasper and others, exploration and survey of a massive cave in south-central Kentucky. Now a Cave Research Foundation project.
+        </td>
+    </tr>
+</table>
 
----
-
-<p>
-  <a href="https://pdfs.semanticscholar.org/57b3/1748382bfb9176d580fb69c5a0ff7ed8b6e0.pdf"><img src="/public/projects-pix/crystalin1995.jpg" width="150em" alt="Crystal Geyser, Utah" /></a>
-  <a href="https://pdfs.semanticscholar.org/57b3/1748382bfb9176d580fb69c5a0ff7ed8b6e0.pdf"><b>Cold water geysers</b></a> (2004) - With Rhonda Glennon, an inventory of CO2-driven erupting springs and wells. Note: link goes to a pdf file.
-</p>
-
----
-
-<p>
-  <a href="https://www.researchgate.net/publication/284255246_The_extraordinary_thermal_activity_of_El_Tatio_Geyser_Field_Antofagasta_Region_Chile"><img src="/public/projects-pix/eltatio.jpg" width="150em" alt="A map section of El Tatio Geysers, Chile" /></a>
-<a href="https://www.researchgate.net/publication/284255246_The_extraordinary_thermal_activity_of_El_Tatio_Geyser_Field_Antofagasta_Region_Chile"><b>El Tatio Geysers</b></a> (2003) - With Rhonda Glennon, Shane Fryer, and Weldon Hawkins, an inventory and map of Chile's El Tatio geysers.
-</p>
-
----
-
-<p>
-  <a href="https://alanglennon.com/martin-ridge-cave/"><img src="/public/projects-pix/conductivitytest.jpg" width="150em" alt="In-cave science" /></a>
-  <a href="https://alanglennon.com/martin-ridge-cave/"><b>Martin Ridge Cave Project</b></a> (1996-2003) - With Jon Jasper and others, exploration and survey of a massive cave in south-central Kentucky. Now a Cave Research Foundation project.
-</p>
-
----
-
-<p>
-    <a href="https://www.researchgate.net/publication/216876725_Application_of_Morphometric_Relationships_to_Active_Flow_Networks_within_the_Mammoth_Cave_Watershed"><img src="/public/projects-pix/mammothdrainage.jpg" width="150em" alt="Karst groundwater basin map" /></a>
-  <a href="https://www.researchgate.net/publication/216876725_Application_of_Morphometric_Relationships_to_Active_Flow_Networks_within_the_Mammoth_Cave_Watershed"><b>Mammoth Cave drainage patterns</b></a> (2001) - Master's thesis on subsurface conduit geometries within a karst landscape.
-</p>
+<table>
+    <tr>
+        <td width="25%">
+            <a href="https://www.researchgate.net/publication/216876725_Application_of_Morphometric_Relationships_to_Active_Flow_Networks_within_the_Mammoth_Cave_Watershed"><img src="/public/projects-pix/mammothdrainage.jpg" width="150em" alt="Karst groundwater basin map" /></a>
+        </td>
+        <td>
+            <a href="https://www.researchgate.net/publication/216876725_Application_of_Morphometric_Relationships_to_Active_Flow_Networks_within_the_Mammoth_Cave_Watershed"><b>Mammoth Cave drainage patterns</b></a> (2001) - Master's thesis on subsurface conduit geometries within a karst landscape.
+        </td>
+    </tr>
+</table>
