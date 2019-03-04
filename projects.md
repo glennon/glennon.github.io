@@ -5,6 +5,8 @@ title: Projects
 
 <b>Projects</b>
 
+---
+
 <p>
     <a href="https://github.com/investorschool"><img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" /></a>
     <a href="https://github.com/investorschool"><b>Investor School</b></a> (2018-present) - I help organize a community of startup investors.
