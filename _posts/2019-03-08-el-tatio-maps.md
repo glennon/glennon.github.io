@@ -14,7 +14,7 @@ The maps were intended to be a bit bigger, so I am happy to release these maps i
 <td width="1rem"></td>
 <td><a href="/public/posts/tatioupper.pdf"><img src="/public/posts/tatioupper.png" /><br />Upper Geyser Basin</a></td>
 </tr>
-<tr><td height="1rem"></td></tr>
+<tr><td height="40px"></td></tr>
 <tr>
 <td><a href="/public/posts/tatiomiddle.pdf"><img src="/public/posts/tatiomiddle.png" /><br />Middle Geyser Basin</a></td>
 <td width="1rem"></td>
