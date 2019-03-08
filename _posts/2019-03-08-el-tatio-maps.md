@@ -8,7 +8,7 @@ Our report was published in the <a href="https://www.researchgate.net/publicatio
 
 The maps were intended to be a bit bigger, so I am happy to release these maps in pdf format at their native resolution for download.
 
-<table cellspacing="20">
+<table>
 <tr>
 <td><a href="/public/posts/tatiogeneral.pdf"><img src="/public/posts/tatiogeneral.png" /><br />General Map</a></td>
 <td><a href="/public/posts/tatioupper.pdf"><img src="/public/posts/tatioupper.png" /><br />Upper Geyser Basin</a></td>
