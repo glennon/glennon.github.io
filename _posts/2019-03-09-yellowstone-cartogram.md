@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cartogram experiment: Yellowstone USA
+title: "Cartogram experiment: Yellowstone USA"
 ---
 
 Since I now exclusively use Ubuntu, it is more difficult to use my normal cartography tools, i.e., Illustrator and ArcGIS. 
