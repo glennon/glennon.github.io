@@ -10,7 +10,7 @@ title: Projects
 <table>
     <tr>
         <td width="25%">
-            <a href="https://github.com/investorschool"><img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" /></a>
+            <a href="https://github.com/investorschool/codeofconduct/blob/master/CODE_OF_CONDUCT.md"><img src="/public/projects-pix/pitches.jpg" width="150em" alt="startup pitches" /></a>
         </td>
         <td>
             <a href="https://github.com/investorschool"><b>Investor School</b></a>
