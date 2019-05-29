@@ -143,10 +143,10 @@ title: Projects
 <table>
     <tr>
         <td width="25%">
-            <a href="https://www.researchgate.net/publication/284255246_The_extraordinary_thermal_activity_of_El_Tatio_Geyser_Field_Antofagasta_Region_Chile"><img src="/public/projects-pix/eltatio.jpg" width="150em" alt="A map section of El Tatio Geysers, Chile" /></a>
+            <a href="https://alanglennon.com/elTatioGlennonPfaff.pdf"><img src="/public/projects-pix/eltatio.jpg" width="150em" alt="A map section of El Tatio Geysers, Chile" /></a>
         </td>
         <td>
-            <a href="https://www.researchgate.net/publication/284255246_The_extraordinary_thermal_activity_of_El_Tatio_Geyser_Field_Antofagasta_Region_Chile"><b>El Tatio Geysers</b></a> (2003) - With Rhonda Glennon, Shane Fryer, and Weldon Hawkins, an inventory and map of Chile's El Tatio geysers.
+            <a href="https://alanglennon.com/elTatioGlennonPfaff.pdf"><b>El Tatio Geysers</b></a> (2003) - With Rhonda Glennon, Shane Fryer, and Weldon Hawkins, an inventory and map of Chile's El Tatio geysers. Note: link goes to a pdf file.
         </td>
     </tr>
 </table>
