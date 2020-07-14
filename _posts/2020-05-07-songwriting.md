@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Songwriting in Lockdown
+title: Lockdown
 ---
 
 During the pandemic lockdown, I have been practicing piano and writing a few songs--mostly electronic or piano instrumentals. As I progress, you can find the results at: 
