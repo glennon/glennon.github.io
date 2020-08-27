@@ -35,7 +35,7 @@ Anyone. If you are the type of person or people that Silicon Valley underestimat
 <b>Investment sizes</b>
 <ul>
 <li><b>Small</b><br /> 
-Micro-angel checks: $5,000 on a $3,000,000 <a href="https://www.ycombinator.com/documents/">YC SAFE: Valuation Cap, No Discount</a> from my personal bank account. You do not have to be incorporated, but you must form a Delaware C Corporation within six months of signing. In rare cases, I might be willing to write a smaller check of $2,500 on a <a href="https://www.ycombinator.com/documents/">YC SAFE MFN</a>.</li>
+Micro-angel checks: $5,000 on a $3,000,000 <a href="https://www.ycombinator.com/documents/">YC SAFE: Valuation Cap, No Discount</a>. Funds come from my personal bank account. You do not have to be incorporated, but you must form a Delaware C Corporation within six months of signing. In rare cases, I might be willing to write a smaller check of $2,500 on a <a href="https://www.ycombinator.com/documents/">YC SAFE MFN</a>.</li>
 <br />
 <li><b>Medium</b><br /> 
 Angel checks from $10,000 to $50,000 with a strong preference for investments in Delaware C Corporations on the most-recent <a href="https://www.ycombinator.com/documents/">YC SAFE Valuation Cap, No Discount</a>. Depending on the deal, I may negotiate the addition of a <a href="https://www.ycombinator.com/documents/">pro-rata side letter</a>. These funds come from my personal bank account.</li>
