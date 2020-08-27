@@ -50,7 +50,7 @@ Checks up to $200,000 with me as an <a href="https://angel.co/syndicates">AngelL
 <li>Other than the cash itself, much of my job is to get out of your way. You will not need to teach me how various investment documents work, and I understand that many startups are a mess at the beginning.</li>
 <li>Especially if I am the first money in, the check from an <a href="https://angel.co/p/glennon">experienced Silicon Valley investor</a> signals an initial minimum price for future investors.</li>
 <li>There are many more brilliant and famous investors. However, it still is prestigious to receive money from me. It is validation that an investor believes you will be successful, your idea is worth pursuing, and that the potential market could be spectacular. I am optimistic that someday your efforts will make us both a lot of money.</li>
-<li>When your company is ready, I will help you get to your next round. I am most able to assist at the earliest stages.</li>
+<li>When your company is ready, I will make introductions to the next stage of investors and help prepare you for what to expect. I am most able to assist at the earliest rounds.</li>
 <li>I will answer any questions you have, and point to potential resources when I am clueless.</li>
 </ul>
 
