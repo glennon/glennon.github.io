@@ -23,7 +23,7 @@ title: Founders Guide on Investor Alan Glennon
 <br />
 <p />
 <b>Investment Focus</b><br />
-I invest in super-early high-growth potential, technology-enabled startups. My investments tend to be in companies that have discovered something unexpected in a market or are experimenting with new business methods. Any industry is fine, but as a former park ranger, natural resource mining companies are not interesting to me.
+I invest in super-early high-growth potential, technology-enabled startups. My investments tend to be in companies that: have discovered something unexpected in a market or are experimenting with new business methods. Any industry is fine, but as a former park ranger, natural resource mining companies are not interesting to me.
 
 <ul><br /></ul>
 
