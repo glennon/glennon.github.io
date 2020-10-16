@@ -28,7 +28,7 @@ I invest in super-early high-growth potential, technology-enabled startups. My i
 <ul><br /></ul>
 
 <b>Who I invest in</b><br />
-Anyone. If you are the type of person or people that Silicon Valley underestimates, I especially want to hear about what you are building. My last six investments average 2.3 people per company, and five of six have a woman founder. The founders are all working full-time, exclusively on their startup.
+Anyone. If you are the type of person or people that Silicon Valley underestimates, I especially want to hear about what you are building. My last seven investments average 2.1 founders per company, and six of seven have a woman founder. They are all working full-time, exclusively on their startup.
 
 <ul><br /></ul>
 
