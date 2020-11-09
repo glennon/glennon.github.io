@@ -65,7 +65,7 @@ Even for ambitious, capable, and smart people, running a startup can be overwhel
 <ul><br /></ul>
 
 <b>Contact</b><br />
-Founders usually communicate with me by email or Twitter. Linkedin is a reasonable way to make initial contact, but I do not use its messaging. It is pretty common for my portfolio founders to text when something fast-paced is happening.<br />
+Founders usually communicate with me by email. Linkedin is a reasonable way to make initial contact, but I do not use its messaging. It is pretty common for my portfolio founders to text when something fast-paced is happening.<br />
 <ul>
 <li>email: <i>mylastname</i>@gmail.com.
 <br />hint: Replace <i>mylastname</i> with my last name. It is the same as my Twitter username</li>
