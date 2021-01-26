@@ -5,7 +5,7 @@ title: Founders Guide on Investor Alan Glennon
 <b>Biography</b><br />
 <ul>
 <li>Name: Alan Glennon</li>
-<li>Lives near San Francisco, California</li>
+<li>Lives in San Francisco, California</li>
 <li>Former technical co-founder and CEO of <a href="https://github.com/arogi">Arogi</a> (geospatial analytics)</li>
 <li>Former academic <a href="https://www.researchgate.net/profile/Alan_Glennon">researcher</a> from University of California, Santa Barbara (Ph.D. Geography 2013). Master’s in Geoscience, specializing in cave hydrology</li>
 <li>Former park ranger at Mammoth Cave, Jewel Cave, and Great Basin Nat’l Park</li>
@@ -35,10 +35,10 @@ Anyone. If you are the type of person or people that Silicon Valley underestimat
 <b>Investment sizes</b>
 <ul>
 <li><b>Micro</b><br /> 
-Micro-angel checks: $5,000 on a $2,500,000 <a href="https://www.ycombinator.com/documents/">YC SAFE: Valuation Cap, No Discount</a>. Funds come from my personal bank account. You do not have to be incorporated, but you must be willing to form a Delaware C Corporation within six months of signing. If you have never raised venture capital before, you should also consider <a href="https://FirstMoney.In">FirstMoney.In</a>—a program I helped create where underestimated startup founders can apply for a modest, standardized investment from vetted, experienced angel investors.</li>
+Micro-angel checks: $5,000 on a $2,500,000 <a href="https://www.ycombinator.com/documents/">YC SAFE: Valuation Cap, No Discount</a>. Checks come from my personal funds. You do not have to be incorporated, but you must be willing to form a Delaware C Corporation fairly rapidly--like within six months of signing. I also consider startups from Canada, India, and Singapore. If you have never raised venture capital before, you should also consider <a href="https://FirstMoney.In">FirstMoney.In</a>—a program I helped create where underestimated startup founders can apply for a modest, standardized investment from vetted, experienced angel investors.</li>
 <br />
 <li><b>Small</b><br /> 
-Angel checks from $10,000 to $50,000 with a strong preference for investments in Delaware C Corporations on the most-recent <a href="https://www.ycombinator.com/documents/">YC SAFE Valuation Cap, No Discount</a>. Depending on the deal, I may negotiate the addition of a <a href="https://www.ycombinator.com/documents/">pro-rata side letter</a>. These funds come from my personal bank account.</li>
+Angel checks from $10,000 to $50,000 with a strong preference for investments in Delaware C Corporations on the most-recent <a href="https://www.ycombinator.com/documents/">YC SAFE Valuation Cap, No Discount</a>. Depending on the deal, I may negotiate the addition of a <a href="https://www.ycombinator.com/documents/">pro-rata side letter</a>. Checks come from my personal funds.</li>
 <br />
 <li><b>Medium</b><br /> 
 Checks up to $200,000 with me as an <a href="https://angel.co/syndicates">AngelList Syndicate Lead</a>. These are rare for me to do because I am bringing other investors into the deal. If this is the instrument I would like to use, it will be in close consultation with you the founder. With a syndicate, two investors are added to your cap table: me and an AngelList LLC that represents the syndicate investors.</li>
@@ -68,7 +68,7 @@ Even for ambitious, capable, and smart people, running a startup can be overwhel
 Founders usually communicate with me by email. Linkedin is a reasonable way to make initial contact, but I do not use its messaging. It is pretty common for my portfolio founders to text when something fast-paced is happening.<br />
 <ul>
 <li>email: <i>mylastname</i>@gmail.com.
-<br />hint: Replace <i>mylastname</i> with my last name. It is the same as my Twitter username</li>
+<br />Note: Replace <i>mylastname</i> with my last name. It is the same as my Twitter username</li>
 <li>twitter: <a href="https://twitter.com/glennon">@glennon</a></li>
 <li>text: I'll send you my number post-investment</li>
 </ul>
