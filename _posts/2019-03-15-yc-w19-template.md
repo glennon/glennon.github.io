@@ -3,7 +3,7 @@ layout: post
 title: Template for Y Combinator W19 Notes
 ---
 
-Notes Template: <a href="https://docs.google.com/spreadsheets/d/1v9rsdMKlE-5zvhebh8T9dJ2k4wpBUJKj01pbX0OuAAk/edit?usp=sharing">(Google Sheet)</a>
+Notes Template: <a href="https://docs.google.com/spreadsheets/d/1QmJXrHvzH0OrPkLofKPuWAH4wUYc7ciCpCOCeZkk_vQ/edit?usp=sharing">(Google Sheet)</a>
 
 ----
 
@@ -13,7 +13,7 @@ Fortunately, most of the YC batch reveal themselves online before Demo Day via b
 
 The bottom of the list also gets special attention. I enter Demo Day with the assumption that I made a mistake about them. With a selection pool of 10,000-12,000 applications and a juggernaut portfolio, YC partners have a great deal of signal about tech company trends, emerging markets, and optimal founder characteristics. Usually, during the lower ranked pitches, I am able to identify my mistake. Sometimes the founder describes a market I had not considered. Most often, the founders themselves are particularly gifted--and likely the reason they were accepted into the YC portfolio. The March 2019 Demo Day will only be my third to attend as an investor. I have a tugging feeling that one of these companies I originally misunderstood will turn into a future breakout hit.
 
-My spreadsheet of company names, descriptions, and a blank scoring sheet can be found <a href="https://docs.google.com/spreadsheets/d/1v9rsdMKlE-5zvhebh8T9dJ2k4wpBUJKj01pbX0OuAAk/edit?usp=sharing">here</a>. You are welcome to make your own copy, modify the document, and change the weights to fit your own hypotheses about the characteristics of a great startup. To respect the founders who wish to keep their companies confidential, the spreadsheet only includes 'announced' companies.  If you do your own evaluations, I would love to know your favorites. If you are curious about mine, my top five are hidden away at the bottom the second tab of the spreadsheet. 
+My spreadsheet of company names, descriptions, and a blank scoring sheet can be found <a href="https://docs.google.com/spreadsheets/d/1QmJXrHvzH0OrPkLofKPuWAH4wUYc7ciCpCOCeZkk_vQ/edit?usp=sharing">here</a>. You are welcome to make your own copy, modify the document, and change the weights to fit your own hypotheses about the characteristics of a great startup. To respect the founders who wish to keep their companies confidential, the spreadsheet only includes 'announced' companies.  If you do your own evaluations, I would love to know your favorites. If you are curious about mine, my top five are hidden away at the bottom the second tab of the spreadsheet. 
 
 Congratulations and best wishes to the founders pitching in a few days!
 Looking forward to another great Demo Day! <a href="https://twitter.com/glennon">@glennon</a>
