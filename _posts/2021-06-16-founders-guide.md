@@ -41,7 +41,7 @@ Micro-angel checks: $5,000 on a $2,500,000 <a href="https://www.ycombinator.com/
 Angel checks from $10,000 to $50,000 with a strong preference for investments in Delaware C Corporations on the most-recent <a href="https://www.ycombinator.com/documents/">YC SAFE Valuation Cap, No Discount</a>. Depending on the deal, I may negotiate the addition of a <a href="https://www.ycombinator.com/documents/">pro-rata side letter</a>. Checks come from my personal funds.</li>
 <br />
 <li><b>Medium</b><br /> 
-Checks up to $200,000 with me as an <a href="https://angel.co/syndicates">AngelList Syndicate Lead</a>. These are rare for me to do because I am bringing other investors into the deal. If this is the instrument I would like to use, it will be in close consultation with you the founder. With a syndicate, two investors are added to your cap table: me and an AngelList LLC that represents the syndicate investors.</li>
+Checks up to $250,000 with me as an <a href="https://angel.co/syndicates">AngelList Syndicate Lead</a>. These are rare for me to do because I am bringing other investors into the deal. If this is the instrument I would like to use, it will be in close consultation with you the founder. With a syndicate, two investors are added to your cap table: me and an AngelList LLC that represents the syndicate investors.</li>
 </ul>
 <br />
 <p />
