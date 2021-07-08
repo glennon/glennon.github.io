@@ -9,7 +9,7 @@ title: Founders Guide on Investor Alan Glennon
 <li>Former technical co-founder and CEO of NSF-funded <a href="https://github.com/arogi">Arogi</a> (geospatial analytics)</li>
 <li>Former academic <a href="https://www.researchgate.net/profile/Alan_Glennon">researcher</a> from University of California, Santa Barbara (Ph.D. Geography 2013). Master’s in Geoscience, specializing in cave hydrology</li>
 <li>Former park ranger at Mammoth Cave, Jewel Cave, and Great Basin Nat’l Park</li>
-<li>Accredited angel investor in <a href="https://angel.co/p/glennon">16 technology startups</a> since 2017, including <a href="https://lambdaschool.com/">Lambda School</a>, <a href="https://stilt.com">Stilt</a>, and <a href="https://www.teampay.co/">Teampay</a></li>
+<li>Accredited angel investor in <a href="https://angel.co/p/glennon">23 technology startups</a> since 2017, including <a href="https://lambdaschool.com/">Lambda School</a>, <a href="https://stilt.com">Stilt</a>, and <a href="https://www.teampay.co/">Teampay</a></li>
 </ul>
 <br />
 <p />
