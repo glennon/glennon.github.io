@@ -118,7 +118,7 @@ export const blogPosts: BlogPost[] = [
             Looking forward to another great Demo Day! <a href="https://twitter.com/glennon">@glennon</a></p>
 
             <div className="mt-8 bg-white p-4 rounded-sm shadow-sm border border-stone-100">
-                <img src="https://alanglennon.com/public/posts/YCSuS-Group9.jpg" className="w-full grayscale-[10%]" alt="Entrepreneurs visiting Y Combinator's Startup School" />
+                <img src="/posts/YCSuS-Group9.jpg" className="w-full grayscale-[10%]" alt="Entrepreneurs visiting Y Combinator's Startup School" />
                 <p className="text-xs text-stone-400 mt-2 uppercase tracking-wide font-medium">Entrepreneurs visiting Y Combinator's Startup School</p>
             </div>
         </div>
@@ -131,7 +131,7 @@ export const blogPosts: BlogPost[] = [
     content: (
         <div className="text-[#44403C] font-light">
             <p className="mb-8">Weekend cartogram experiments and playing with Inkscape took over Monday too. Here is Norris Geyser Basin.</p>
-            <img src="https://alanglennon.com/public/posts/norris4.png" width="600px" className="rounded-sm shadow-sm border border-stone-100 p-2 bg-white" alt="Norris Geyser Basin Map" />
+            <img src="/posts/norris4.png" width="600px" className="rounded-sm shadow-sm border border-stone-100 p-2 bg-white" alt="Norris Geyser Basin Map" />
         </div>
     )
   },
@@ -142,7 +142,7 @@ export const blogPosts: BlogPost[] = [
     content: (
         <div className="text-[#44403C] font-light">
             <p className="mb-8">Since I now exclusively use Ubuntu, it is more difficult to use my normal cartography tools, i.e., Illustrator and ArcGIS. After posting the Upper Geyser Basin map yesterday, I decided to try open source <a href="https://inkscape.org/">Inkscape</a> and see if I could make it work. Anyway, here is a start.</p>
-            <img src="https://alanglennon.com/public/posts/yellcartogram.png" className="rounded-sm shadow-sm border border-stone-100 p-2 bg-white" alt="Yellowstone Cartogram" />
+            <img src="/posts/yellcartogram.png" className="rounded-sm shadow-sm border border-stone-100 p-2 bg-white" alt="Yellowstone Cartogram" />
         </div>
     )
   },
@@ -153,7 +153,7 @@ export const blogPosts: BlogPost[] = [
     content: (
         <div className="text-[#44403C] font-light">
             <p className="mb-8">Inspired by <a href="https://en.wikipedia.org/wiki/Harry_Beck">Harry Beck's</a> London Tube map, here is my version of the geysers and trails at the Upper Geyser Basin. This is an unused figure from my 2013 doctoral dissertation on networks embedded in geographic space. It includes three of my favorite things: geysers, maps, and networks.</p>
-            <img src="https://alanglennon.com/public/posts/beckfaithful.png" className="rounded-sm shadow-sm border border-stone-100 p-2 bg-white" alt="Beck Faithful Map" />
+            <img src="/posts/beckfaithful.png" className="rounded-sm shadow-sm border border-stone-100 p-2 bg-white" alt="Beck Faithful Map" />
         </div>
     )
   },
@@ -168,20 +168,20 @@ export const blogPosts: BlogPost[] = [
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div className="flex flex-col items-center group">
-                    <a href="https://alanglennon.com/public/posts/tatiogeneral.pdf" className="font-medium mb-2 text-[#1A2F25] group-hover:underline decoration-stone-300 underline-offset-4 font-serif text-lg">General Map</a>
-                    <img src="https://alanglennon.com/public/posts/tatiogeneral.png" className="border border-stone-100 shadow-sm rounded-sm p-1 bg-white hover:shadow-md transition-shadow" />
+                    <a href="/posts/tatiogeneral.pdf" className="font-medium mb-2 text-[#1A2F25] group-hover:underline decoration-stone-300 underline-offset-4 font-serif text-lg">General Map</a>
+                    <img src="/posts/tatiogeneral.png" className="border border-stone-100 shadow-sm rounded-sm p-1 bg-white hover:shadow-md transition-shadow" />
                 </div>
                  <div className="flex flex-col items-center group">
-                    <a href="https://alanglennon.com/public/posts/tatioupper.pdf" className="font-medium mb-2 text-[#1A2F25] group-hover:underline decoration-stone-300 underline-offset-4 font-serif text-lg">Upper Geyser Basin</a>
-                    <img src="https://alanglennon.com/public/posts/tatioupper.png" className="border border-stone-100 shadow-sm rounded-sm p-1 bg-white hover:shadow-md transition-shadow" />
+                    <a href="/posts/tatioupper.pdf" className="font-medium mb-2 text-[#1A2F25] group-hover:underline decoration-stone-300 underline-offset-4 font-serif text-lg">Upper Geyser Basin</a>
+                    <img src="/posts/tatioupper.png" className="border border-stone-100 shadow-sm rounded-sm p-1 bg-white hover:shadow-md transition-shadow" />
                 </div>
                  <div className="flex flex-col items-center group">
-                    <a href="https://alanglennon.com/public/posts/tatiomiddle.pdf" className="font-medium mb-2 text-[#1A2F25] group-hover:underline decoration-stone-300 underline-offset-4 font-serif text-lg">Middle Geyser Basin</a>
-                    <img src="https://alanglennon.com/public/posts/tatiomiddle.png" className="border border-stone-100 shadow-sm rounded-sm p-1 bg-white hover:shadow-md transition-shadow" />
+                    <a href="/posts/tatiomiddle.pdf" className="font-medium mb-2 text-[#1A2F25] group-hover:underline decoration-stone-300 underline-offset-4 font-serif text-lg">Middle Geyser Basin</a>
+                    <img src="/posts/tatiomiddle.png" className="border border-stone-100 shadow-sm rounded-sm p-1 bg-white hover:shadow-md transition-shadow" />
                 </div>
                  <div className="flex flex-col items-center group">
-                    <a href="https://alanglennon.com/public/posts/tatiolower.pdf" className="font-medium mb-2 text-[#1A2F25] group-hover:underline decoration-stone-300 underline-offset-4 font-serif text-lg">Lower Geyser Basin</a>
-                    <img src="https://alanglennon.com/public/posts/tatiolower.png" className="border border-stone-100 shadow-sm rounded-sm p-1 bg-white hover:shadow-md transition-shadow" />
+                    <a href="/posts/tatiolower.pdf" className="font-medium mb-2 text-[#1A2F25] group-hover:underline decoration-stone-300 underline-offset-4 font-serif text-lg">Lower Geyser Basin</a>
+                    <img src="/posts/tatiolower.png" className="border border-stone-100 shadow-sm rounded-sm p-1 bg-white hover:shadow-md transition-shadow" />
                 </div>
             </div>
         </div>

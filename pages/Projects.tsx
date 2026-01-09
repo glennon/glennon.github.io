@@ -14,7 +14,7 @@ const projects: Project[] = [
     title: 'GeyserTimes',
     year: '2010-present',
     description: 'With Jake Young, Will Boekel, et al, a notetaking app and database of geyser observations.',
-    image: 'https://alanglennon.com/public/projects-pix/geysertimes.jpg',
+    image: '/projects-pix/geysertimes.jpg',
     link: 'https://geysertimes.org/',
     category: 'Geography'
   },
@@ -30,7 +30,7 @@ const projects: Project[] = [
     title: 'Investor School',
     year: '2018-2021',
     description: 'Silicon Valley-based startup investor community',
-    image: 'https://alanglennon.com/public/projects-pix/pitches.jpg',
+    image: '/projects-pix/pitches.jpg',
     link: 'https://github.com/investorschool',
     category: 'Venture'
   },
@@ -38,7 +38,7 @@ const projects: Project[] = [
     title: 'Arogi',
     year: '2015-2017',
     description: 'With Antonio Medrano, Matt Niblett, Tim Niblett, and Rick Church, NSF-funded spatial analytics company focused on emergency response.',
-    image: 'https://alanglennon.com/public/projects-pix/arogi.jpg',
+    image: '/projects-pix/arogi.jpg',
     link: 'https://github.com/arogi',
     category: ['Geography', 'Venture']
   },
@@ -46,7 +46,7 @@ const projects: Project[] = [
     title: 'Geographically Embedded Networks',
     year: '2013',
     description: 'Doctoral Dissertation on networks embedded in geographic space.',
-    image: 'https://alanglennon.com/public/projects-pix/genets.jpg',
+    image: '/projects-pix/genets.jpg',
     link: 'https://alanglennon.com/genets/',
     internalRoute: 'genets',
     category: 'Geography'
@@ -55,7 +55,7 @@ const projects: Project[] = [
     title: 'WhereCamp',
     year: '2007-2013',
     description: 'Discussant at and organizer of numerous California geospatial unconferences.',
-    image: 'https://alanglennon.com/public/projects-pix/wherecamp.jpg',
+    image: '/projects-pix/wherecamp.jpg',
     link: 'https://github.com/WhereCamp',
     category: 'Geography'
   },
@@ -63,7 +63,7 @@ const projects: Project[] = [
     title: 'Crowdsourcing disaster response',
     year: '2010',
     description: 'Co-authored with Mike Goodchild, a preprint of our article in IJDE.',
-    image: 'https://alanglennon.com/public/projects-pix/jesusita.jpg',
+    image: '/projects-pix/jesusita.jpg',
     link: 'https://www.researchgate.net/publication/220473289_Crowdsourcing_geographic_information_for_disaster_response_A_research_frontier_International_Journal_of_Digital_Earth_33_231-241',
     category: 'Geography'
   },
@@ -71,7 +71,7 @@ const projects: Project[] = [
     title: 'Geographic Data Models',
     year: '2010',
     description: 'A "how to" on creating geographically informed data models.',
-    image: 'https://alanglennon.com/public/projects-pix/flowmodel.jpg',
+    image: '/projects-pix/flowmodel.jpg',
     link: 'https://www.researchgate.net/publication/220606129_Creating_and_Validating_Object-Oriented_Geographic_Data_Models_Modeling_Flow_within_GIS',
     category: 'Geography'
   },
@@ -79,7 +79,7 @@ const projects: Project[] = [
     title: 'UCSB Campus Map',
     year: '2010',
     description: 'With Susan Tran, an interactive map of the UCSB campus.',
-    image: 'https://alanglennon.com/public/projects-pix/campusmap.jpg',
+    image: '/projects-pix/campusmap.jpg',
     link: 'https://map.ucsb.edu/',
     category: 'Geography'
   },
@@ -87,7 +87,7 @@ const projects: Project[] = [
     title: 'FlowpyGIS',
     year: '2008-2010',
     description: 'A Python script for creating gross, net, and two-way flow lines.',
-    image: 'https://alanglennon.com/public/projects-pix/flowpygis.jpg',
+    image: '/projects-pix/flowpygis.jpg',
     link: 'https://github.com/glennon/FlowpyGIS',
     category: 'Geography'
   },
@@ -95,7 +95,7 @@ const projects: Project[] = [
     title: 'Geography 2.0',
     year: '2005-2007',
     description: 'Contemporaneous blog on the development of virtual globes.',
-    image: 'https://alanglennon.com/public/projects-pix/geography2.jpg',
+    image: '/projects-pix/geography2.jpg',
     link: 'https://geography2.blogspot.com/',
     category: 'Geography'
   },
@@ -103,7 +103,7 @@ const projects: Project[] = [
     title: 'Cold water geysers',
     year: '2004',
     description: 'With Rhonda Glennon, an inventory of CO2-driven erupting springs and wells.',
-    image: 'https://alanglennon.com/public/projects-pix/crystalin1995.jpg',
+    image: '/projects-pix/crystalin1995.jpg',
     link: 'https://pdfs.semanticscholar.org/57b3/1748382bfb9176d580fb69c5a0ff7ed8b6e0.pdf',
     note: 'Note: link goes to a pdf file.',
     category: 'Geography'
@@ -112,7 +112,7 @@ const projects: Project[] = [
     title: 'El Tatio Geysers',
     year: '2003',
     description: 'With Rhonda Glennon, Shane Fryer, and Weldon Hawkins, an inventory and map of Chile\'s El Tatio geysers.',
-    image: 'https://alanglennon.com/public/projects-pix/eltatio.jpg',
+    image: '/projects-pix/eltatio.jpg',
     link: 'https://alanglennon.com/elTatioGlennonPfaff.pdf',
     note: 'Note: link goes to a pdf file.',
     category: 'Geography'
@@ -121,7 +121,7 @@ const projects: Project[] = [
     title: 'Martin Ridge Cave Project',
     year: '1996-2003',
     description: 'With Jon Jasper and others, exploration and survey of a massive cave in south-central Kentucky. Now a Cave Research Foundation project.',
-    image: 'https://alanglennon.com/public/projects-pix/conductivitytest.jpg',
+    image: '/projects-pix/conductivitytest.jpg',
     link: 'https://alanglennon.com/martin-ridge-cave/',
     internalRoute: 'martin-ridge-cave',
     category: 'Geography'
@@ -130,7 +130,7 @@ const projects: Project[] = [
     title: 'Mammoth Cave drainage patterns',
     year: '2001',
     description: 'Master\'s thesis on subsurface conduit geometries within a karst landscape.',
-    image: 'https://alanglennon.com/public/projects-pix/mammothdrainage.jpg',
+    image: '/projects-pix/mammothdrainage.jpg',
     link: 'https://www.researchgate.net/publication/216876725_Application_of_Morphometric_Relationships_to_Active_Flow_Networks_within_the_Mammoth_Cave_Watershed',
     category: 'Geography'
   }

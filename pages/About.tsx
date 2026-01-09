@@ -38,7 +38,7 @@ const About: React.FC = () => {
         <div className="relative group rotate-1 hover:rotate-0 transition-transform duration-500 origin-top-left">
             <div className="absolute inset-0 bg-[#E8E4DD] shadow-sm transform translate-x-1 translate-y-1 rounded-sm"></div>
             <img 
-                src="https://alanglennon.com/public/alan2016.jpg" 
+                src="/alan2016.jpg" 
                 alt="Alan Glennon" 
                 className="relative rounded-sm shadow-md grayscale-[20%] sepia-[15%] group-hover:grayscale-0 group-hover:sepia-0 transition-all duration-700 w-full border-4 border-[#FDFBF7]" 
             />

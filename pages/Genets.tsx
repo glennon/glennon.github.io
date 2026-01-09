@@ -8,10 +8,10 @@ const Genets: React.FC = () => {
       <div className="bg-[#fffcf9] p-10 rounded-sm mb-12 not-prose border border-stone-200/80 shadow-sm">
         <p className="font-medium text-3xl mb-2 text-[#1A2F25] font-serif leading-tight">Analysis of Geographically Embedded Networks</p>
         <p className="mb-8 text-stone-400 uppercase tracking-widest text-[10px] font-bold mt-4">23 March 2013 &bull; Doctoral Dissertation by J. Alan Glennon</p>
-        {/* Link temporarily disabled for file size reasons */}
-        <span className="inline-block bg-stone-50 text-stone-400 px-6 py-3 rounded-sm cursor-not-allowed select-none text-[10px] font-bold uppercase tracking-[0.2em] border border-stone-200">
-          Download PDF (11 MB) - Link Disabled
-        </span>
+        
+        <a href="/genets/dissertation.pdf" className="inline-block bg-stone-50 text-stone-500 hover:text-stone-800 hover:bg-stone-100 transition-all px-6 py-3 rounded-sm text-[10px] font-bold uppercase tracking-[0.2em] border border-stone-200">
+          Download PDF (11 MB)
+        </a>
       </div>
 
       <div className="text-sm text-stone-500 mb-12 border-l border-stone-300 pl-6 py-1 font-serif italic">
@@ -39,7 +39,7 @@ const Genets: React.FC = () => {
         <li className="flex flex-col sm:flex-row sm:items-baseline border-b border-stone-100 pb-4">
           <strong className="font-medium text-[#1A2F25] mr-2 font-serif text-lg">GeyserSynth (Python 3.3)</strong> <span className="text-[#44403C]">Synthetic geyser eruption data</span>
           <div className="sm:ml-auto mt-2 sm:mt-0 space-x-3 text-xs font-bold uppercase tracking-wider">
-             <a href="https://alanglennon.com/public/genets/syntheruptmodule.txt" className="text-stone-400 hover:text-stone-700 transition-colors">Code</a>
+             <a href="/genets/syntheruptmodule.txt" className="text-stone-400 hover:text-stone-700 transition-colors">Code</a>
           </div>
         </li>
         <li className="border-b border-stone-100 pb-4">
@@ -54,7 +54,7 @@ const Genets: React.FC = () => {
         </li>
         <li>
           <strong className="font-medium text-[#1A2F25] font-serif text-lg">Defense Slideset</strong> 
-          <span className="text-stone-300 ml-2 text-xs italic">download as pdf (12MB) - Link Disabled</span>
+          <a href="/genets/defense_slides.pdf" className="text-stone-400 hover:text-stone-700 transition-colors ml-2 text-xs italic">download as pdf (12MB)</a>
         </li>
       </ul>
 

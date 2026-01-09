@@ -14,7 +14,7 @@ const MartinRidge: React.FC = () => {
       </div>
 
       <div className="my-12 flex justify-center not-prose">
-        <img src="https://alanglennon.com/public/mrcave/martinridge.jpg" alt="Martin Ridge" className="rounded-sm shadow-md max-w-full sepia-[15%] border border-stone-100 p-1 bg-white" />
+        <img src="/mrcave/martinridge.jpg" alt="Martin Ridge" className="rounded-sm shadow-md max-w-full sepia-[15%] border border-stone-100 p-1 bg-white" />
       </div>
 
       <p className="first-letter:text-5xl first-letter:font-serif first-letter:mr-2 first-letter:float-left first-letter:leading-[0.8] first-letter:text-[#1A2F25]">
@@ -30,8 +30,8 @@ const MartinRidge: React.FC = () => {
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-12 not-prose">
-          <img src="https://alanglennon.com/public/mrcave/a1.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
-          <img src="https://alanglennon.com/public/mrcave/a6.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a1.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a6.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
       </div>
 
       <p>
@@ -39,8 +39,8 @@ const MartinRidge: React.FC = () => {
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-12 not-prose">
-          <img src="https://alanglennon.com/public/mrcave/a3.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
-          <img src="https://alanglennon.com/public/mrcave/a4.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a3.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a4.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
       </div>
 
       <p>
@@ -48,18 +48,18 @@ const MartinRidge: React.FC = () => {
       </p>
 
        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-12 not-prose">
-          <img src="https://alanglennon.com/public/mrcave/a10.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
-          <img src="https://alanglennon.com/public/mrcave/a11.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
-          <img src="https://alanglennon.com/public/mrcave/a13.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a10.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a11.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a13.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
       </div>
 
       <p>
-           The following days, Jon and Alan began the cave’s survey. Down the waterfall, the passage did not go far, but a crawlway was discovered that led to a thirty-meter pit intersecting a significant stream. The creek’s tall canyon intersected other passageways, and Alan and Jon furiously mapped the new discoveries. One muddy and wet crawlway above the stream canyon led to a dry, elliptical trunk. Called Dreamland Trunk, the passage averages eight meters wide and two meters high. After heading east for 600 meters, Dreamland Trunk overlooks a tall canyon. The fifteen-meter tall, four-meter wide Overlook Avenue is only 400 meters in length, but is decorated with beautiful travertine dams and a tall white column. Furthermore, the northern end of Overlook Avenue, Jon and Alan discovered the bottom of a domepit. While investigating the dome, Jon discovered footprints. On June 24, 1996, Jon and Alan had connected with Jackpot Cave. The connection took place at a lead beyond the Celestial Borehole in Jackpot Cave. The connection point, a pit called Cold Well, was far away from both the Jackpot and Martin Ridge entrances. Like their cave, Alan and Jon kept their connection secret too.
+           The following days, Jon and Alan began the cave’s survey. Down the waterfall, the passage did not go far, but a crawlway was discovered that led to a thirty-meter pit intersecting a significant stream. The creek’s tall canyon intersected other passageways, and Alan and Jon furiously mapped the new discoveries. One muddy and wet crawlway above the stream canyon led to a dry, elliptical trunk. Called Dreamland Trunk, the passage averages eight meters wide and two meters high. After heading east for 600 meters, Dreamland Trunk overlooks a tall canyon. The fifteen-meter tall, four-meter wide Overlook Avenue is only 400 meters in length, but is decorated with beautiful travertine dams and a tall white column. Furthermore, the northern end of Overlook Avenue, Jon and Alan discovered the bottom of a domepit. While investigating the dome, Jon discovered footprints. On June 24, 1996, Jon and Alan had connected to Jackpot Cave. The connection took place at a lead beyond the Celestial Borehole in Jackpot Cave. The connection point, a pit called Cold Well, was far away from both the Jackpot and Martin Ridge entrances. Like their cave, Alan and Jon kept their connection secret too.
       </p>
 
        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-12 not-prose">
-          <img src="https://alanglennon.com/public/mrcave/a12.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
-          <img src="https://alanglennon.com/public/mrcave/a5.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a12.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a5.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
       </div>
 
       <p>
@@ -71,8 +71,8 @@ const MartinRidge: React.FC = () => {
       </p>
 
        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-12 not-prose">
-          <img src="https://alanglennon.com/public/mrcave/a7.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
-          <img src="https://alanglennon.com/public/mrcave/a8.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a7.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a8.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
       </div>
 
       <p>
@@ -91,8 +91,8 @@ const MartinRidge: React.FC = () => {
       </div>
 
        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-12 not-prose">
-          <img src="https://alanglennon.com/public/mrcave/a9.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
-          <img src="https://alanglennon.com/public/mrcave/a2.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a9.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
+          <img src="/mrcave/a2.jpg" className="rounded-sm shadow-sm w-full sepia-[15%] hover:sepia-0 transition-all border border-stone-100 p-1 bg-white" />
       </div>
 
       <h3 className="text-3xl font-medium mt-16 mb-8 text-[#1A2F25] font-serif italic">References</h3>
