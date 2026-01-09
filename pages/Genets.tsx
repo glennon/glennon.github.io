@@ -9,7 +9,7 @@ const Genets: React.FC = () => {
         <p className="font-medium text-3xl mb-2 text-[#1A2F25] font-serif leading-tight">Analysis of Geographically Embedded Networks</p>
         <p className="mb-8 text-stone-400 uppercase tracking-widest text-[10px] font-bold mt-4">23 March 2013 &bull; Doctoral Dissertation by J. Alan Glennon</p>
         
-        <a href="/genets/dissertation.pdf" className="inline-block bg-stone-50 text-stone-500 hover:text-stone-800 hover:bg-stone-100 transition-all px-6 py-3 rounded-sm text-[10px] font-bold uppercase tracking-[0.2em] border border-stone-200">
+        <a href="/genets/GlennonPhD.pdf" className="inline-block bg-stone-50 text-stone-500 hover:text-stone-800 hover:bg-stone-100 transition-all px-6 py-3 rounded-sm text-[10px] font-bold uppercase tracking-[0.2em] border border-stone-200">
           Download PDF (11 MB)
         </a>
       </div>
@@ -54,7 +54,7 @@ const Genets: React.FC = () => {
         </li>
         <li>
           <strong className="font-medium text-[#1A2F25] font-serif text-lg">Defense Slideset</strong> 
-          <a href="/genets/defense_slides.pdf" className="text-stone-400 hover:text-stone-700 transition-colors ml-2 text-xs italic">download as pdf (12MB)</a>
+          <a href="/genets/GENetsDefense26.pdf" className="text-stone-400 hover:text-stone-700 transition-colors ml-2 text-xs italic">download as pdf (12MB)</a>
         </li>
       </ul>
 
