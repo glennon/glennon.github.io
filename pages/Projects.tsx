@@ -113,7 +113,7 @@ const projects: Project[] = [
     year: '2003',
     description: 'With Rhonda Glennon, Shane Fryer, and Weldon Hawkins, an inventory and map of Chile\'s El Tatio geysers.',
     image: '/projects-pix/eltatio.jpg',
-    link: '/ElTatioGlennonPfaff.pdf',
+    link: '/elTatioGlennonPfaff.pdf',
     note: 'Note: link goes to a pdf file.',
     category: 'Geography'
   },
